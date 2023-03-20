@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: FMFP2022.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: amsplain.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: FMFP2022.bib
+You've used 3 entries,
+            2213 wiz_defined-function locations,
+            518 strings with 4335 characters,
+and the built_in function-call counts, 889 in all, are:
+= -- 70
+> -- 43
+< -- 0
++ -- 17
+- -- 14
+* -- 67
+:= -- 151
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 37
+empty$ -- 80
+format.name$ -- 14
+if$ -- 178
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 7
+newline$ -- 19
+num.names$ -- 6
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 40
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 0
+while$ -- 8
+width$ -- 4
+write$ -- 33

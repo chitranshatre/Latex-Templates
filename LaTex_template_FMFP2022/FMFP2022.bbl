@@ -1,0 +1,23 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{Gsell2017}
+S.~Gsell, R.~Bourguet, and M.~Braza, \emph{Vortex-induced vibrations of a
+  cylinder in planar shear flow.}, J.~Fluid Mech. \textbf{825} (2017),
+  353--384.
+
+\bibitem{Panton2009}
+R.~L. Panton, \emph{Incompressible flow}, Wiley, 2009.
+
+\bibitem{Pascal2000}
+H.~Pascal, S.~Jakirlic, and K.~Hanjalic, \emph{{DNS} and {RANS}-{M}odelling of
+  {I}n-cylinder {T}urbulence subjected to {A}xial {C}ompression}, 3rd
+  International Symposium on Turbulence, Heat and Mass Transfer, 2000.
+
+\end{thebibliography}
